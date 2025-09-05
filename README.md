@@ -84,9 +84,15 @@ We introduce a **hybrid hardware–software monitoring system** that:
 
 ---
 
-🔗 Important Note
+## 🔗 Live Demo
+👉 https://youtu.be/NgqyOqqQsgM?si=HcUvFXJDdti0jsPv
 
-The link will direct you to the project’s frontend. The backend is connected to the blockchain through MetaMask (if an account already exists on the local host). The connection is established via Ganache, and the final link is completed when the hardware module with an authenticated IP is connected.
+---
 
+## ⚙️ Additional Notes
+👉 https://seikozen-website.vercel.app/
+The link will direct you to the project’s frontend. The backend is connected to the blockchain through **MetaMask** (if an account already exists on the local host). The connection is established via **Ganache**, and the final link is completed when the hardware module with an authenticated IP is connected.  
+
+⚠️ Since this project is a combination of **hardware and software**, the hardware module is required to establish some of the connections in the prototype. Certain hardware components cannot be simulated online; therefore, a **detailed circuit diagram along with the necessary code** is provided in the hardware section.  
 (Sorry for the inconvenience.)
 Since this project is a combination of hardware and software, the hardware module is required to establish some of the connections in the prototype. Certain hardware components cannot be simulated online; therefore, a detailed circuit diagram along with the necessary code is provided in the hardware section.
