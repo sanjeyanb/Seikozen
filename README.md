@@ -1,4 +1,4 @@
-# Smart Supply Chain Monitoring System (Pharmaceutical Focus)
+# Smart Supply Chain Monitoring System
 
 ## 📌 Overview
 This project proposes a **Smart Supply Chain Monitoring System** that enhances transparency, security, and accountability across the pharmaceutical supply chain.  
