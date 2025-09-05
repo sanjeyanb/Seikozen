@@ -1,8 +1,8 @@
 # Smart Supply Chain Monitoring System
 
 ## 📌 Overview
-This project proposes a **Smart Supply Chain Monitoring System** that enhances transparency, security, and accountability across the pharmaceutical supply chain.  
-Our solution combines **hardware + software** with a **hybrid blockchain model** (public + private) to tackle three major challenges in pharma logistics:
+This project proposes a **Smart Supply Chain Monitoring System** that enhances transparency, security, and accountability across the supply chain.  
+Our solution combines **hardware + software** with a **hybrid blockchain model** (public + private) to tackle three major challenges in product logistics:
 1. ✅ Quality Assurance  
 2. ⚠️ Risk Management  
 3. 🛡️ Counterfeit Prevention  
